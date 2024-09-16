@@ -4,11 +4,11 @@ Shery.makeMagnet(".magnet", {
 });
 
 Shery.imageMasker("#back", {
-    mouseFollower: true,
-    text: "click on me",
-    ease: "cubic-bezier(0.23, 1, 0.320, 1)",
-    duration: 1,
-  });
+  mouseFollower: true,
+  text: "click here!",
+  ease: "cubic-bezier(0.23, 1, 0.320, 1)",
+  duration: 1,
+});
 
 Shery.imageEffect("#back", {
   style: 5,
